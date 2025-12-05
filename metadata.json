@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Portrait Pro AI",
+  "description": "A professional-grade portrait editor featuring 16+ real-time artistic filters and advanced generative AI stylization using Google Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
